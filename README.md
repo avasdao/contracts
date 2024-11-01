@@ -50,6 +50,11 @@ __Ethereum | ETH__
 - Mainnet - __[0x0](https://etherscan.io/address/0x0#code)__
 - Area 51 (Testnet) - __[0x0](https://ropsten.etherscan.io/address/0x0#code)__
 
+__Nxy | NXY__
+
+- Mainnet - __[0x0]()__
+- Area 51 (Testnet) - __[0x60AF93eB1Bc79A7c30e09d8C25d78BF6cbFC2784](https://explorer.nxy.social/address/0x60AF93eB1Bc79A7c30e09d8C25d78BF6cbFC2784#code)__
+
 __Optimism | OP__
 
 - Mainnet - __[0x0]()__
