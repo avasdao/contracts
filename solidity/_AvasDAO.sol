@@ -1,11 +1,9 @@
-// SPDX-License-Identifier: MIT
-
-pragma solidity ^0.8.0;
+pragma solidity >=0.8.25;
 
 /*******************************************************************************
  *
  * Copyright (c) 2022 Ava's DAO
- * Released under the MIT License.
+ * SPDX-License-Identifier: MIT
  *
  * ServiceName - Service description.
  *

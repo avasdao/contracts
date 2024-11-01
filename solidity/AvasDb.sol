@@ -1,11 +1,9 @@
-// SPDX-License-Identifier: MIT
-
 pragma solidity ^0.8.12;
 
 /*******************************************************************************
  *
  * Copyright (c) 2019-2022 Avas DAO.
- * Released under the MIT License.
+ * SPDX-License-Identifier: MIT
  *
  * AvasDb - An eternal database, providing a sustainable storage solution
  *              for use throughout the upgrade lifecycle of managing contracts.
