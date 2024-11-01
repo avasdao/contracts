@@ -1,0 +1,11 @@
+{
+  "name": "contracts",
+  "version": "24.11.1",
+  "description": "Ava's DAO smart contracts.",
+  "main": "index.js",
+  "author": "Ava's DAO <support@avasdao.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "2.22.15"
+  }
+}
