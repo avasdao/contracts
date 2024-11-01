@@ -1,4 +1,4 @@
-pragma solidity ^0.8.12;
+pragma solidity >=0.6.0 <0.8.25;
 
 /*******************************************************************************
  *
@@ -21,7 +21,6 @@ pragma solidity ^0.8.12;
 contract Owned {
     address public owner;
     address public newOwner;
-
     event OwnershipTransferred(address indexed _from, address indexed _to);
 
     constructor() {
@@ -39,11 +38,8 @@ contract Owned {
 
     function acceptOwnership() public {
         require(msg.sender == newOwner);
-
         emit OwnershipTransferred(owner, newOwner);
-
         owner = newOwner;
-
         newOwner = address(0);
     }
 }
